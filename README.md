@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theabhishek0209&theme=matrix&column=4&margin-w=15&margin-h=15" alt="theabhishek0209" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theabhishek0209&theme=matrix&column=3&margin-w=15&margin-h=15" alt="theabhishek0209" /></a> </p>
 
 - 🔭 I’m currently working on **Kravingo**
 
